@@ -5,7 +5,8 @@ A simple **Discord** tool used for **Mass DM** (Educational Purposes Only). Plea
 1. Download the tool (This repository). You can also copy the **HTTPS** code url and import this repository into **Replit**, but the functionality might decline or become slower.
 2. You will need ```python3``` or higher.
 3. Then you just run ```main.py``` in **Replit** or in **Visual Studio Code.**
-(If that doesnt work, open cmd or powershell to that directory and execute this command): ```pip install requirements.txt -r```
+
+**(If that doesnt work, open cmd or powershell to that directory and execute this command):** ```pip install requirements.txt -r```
 
 **Replit:** https://www.replit.com/
 
@@ -14,6 +15,7 @@ A simple **Discord** tool used for **Mass DM** (Educational Purposes Only). Plea
 # Commands
 
 ```CT``` = Checks the ```tokens.txt``` if there are any invalid tokens (Bot Token Checker).
+
 ```MD``` = Mass DM
 
 # Discord Commands
