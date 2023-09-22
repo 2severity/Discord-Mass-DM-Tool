@@ -8,6 +8,7 @@ A simple **Discord** tool used for **Mass DM** (Educational Purposes Only). Plea
 
 **(If that doesnt work, open cmd or powershell to that directory and execute this command):** ```pip install requirements.txt -r```
 
+# Code Editors
 **Replit:** https://www.replit.com/
 
 **Visual Studio Code:** https://code.visualstudio.com/
