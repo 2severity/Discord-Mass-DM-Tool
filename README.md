@@ -4,7 +4,7 @@ A simple **Discord** tool used for **Mass DM** (Educational Purposes Only). Plea
 # How To Use?
 1. Download the tool (This repository). You can also copy the **HTTPS** code url and import this repository into **Replit**, but the functionality might decline or become slower.
 2. You will need ```python3``` or higher.
-3. Then you just run ```main.py``` in **Replit** or in **Visual Studio Code.**
+3. Then you just run ```main.py``` in your code editor (Visual Studio Code or Replit).
 
 **(If that doesnt work, open cmd or powershell to that directory and execute this command):** ```pip install requirements.txt -r```
 
